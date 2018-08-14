@@ -1,0 +1,3612 @@
+fileFormatVersion: 2
+guid: e16ab52caa6ab0e49b586455ef0ee8b3
+timeCreated: 1514354833
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature.001
+    100002: DWH_Diagram.001
+    100004: DWH_Diagram.001_MeshPart0
+    100006: DWH_Diagram.001_MeshPart1
+    100008: DWH_Diagram.001_MeshPart2
+    100010: DWH_Diagram.001_MeshPart3
+    100012: //RootNode
+    100014: item1
+    100016: item1.1
+    100018: item1.1.disc
+    100020: item1.1.disc_end
+    100022: item1.2
+    100024: item1.2.disc
+    100026: item1.2.disc_end
+    100028: item1.3
+    100030: item1.3.disc
+    100032: item1.3.disc_end
+    100034: item1.4
+    100036: item1.4.disc
+    100038: item1.4.disc_end
+    100040: item1.disc
+    100042: item1.disc_end
+    100044: item1.label
+    100046: item1.label_end
+    100048: item1.mainLight
+    100050: item1.mainLight_end
+    100052: item1.ringDash
+    100054: item1.ringDash_end
+    100056: item1.ringL
+    100058: item1.ringL_end
+    100060: item1.ringS_1
+    100062: item1.ringS_1_end
+    100064: item1.ringS_2
+    100066: item1.ringS_2_end
+    100068: item1.ringS_3
+    100070: item1.ringS_3_end
+    100072: item1.ringS_Master
+    100074: item1.subLight.001
+    100076: item1.subLight.001_end
+    100078: item1.subLight.002
+    100080: item1.subLight.002_end
+    100082: item1.subLight.003
+    100084: item1.subLight.003_end
+    100086: item1.subLight.004
+    100088: item1.subLight.004_end
+    100090: item2
+    100092: item2.1
+    100094: item2.1.disc
+    100096: item2.1.disc_end
+    100098: item2.10
+    100100: item2.10.disc
+    100102: item2.10.disc_end
+    100104: item2.11
+    100106: item2.11.disc
+    100108: item2.11.disc_end
+    100110: item2.12
+    100112: item2.12.disc
+    100114: item2.12.disc_end
+    100116: item2.2
+    100118: item2.2.disc
+    100120: item2.2.disc_end
+    100122: item2.3
+    100124: item2.3.disc
+    100126: item2.3.disc_end
+    100128: item2.4
+    100130: item2.4.disc
+    100132: item2.4.disc_end
+    100134: item2.5
+    100136: item2.5.disc
+    100138: item2.5.disc_end
+    100140: item2.6
+    100142: item2.6.disc
+    100144: item2.6.disc_end
+    100146: item2.7
+    100148: item2.7.disc
+    100150: item2.7.disc_end
+    100152: item2.8
+    100154: item2.8.disc
+    100156: item2.8.disc_end
+    100158: item2.9
+    100160: item2.9.disc
+    100162: item2.9.disc_end
+    100164: item2.disc
+    100166: item2.disc_end
+    100168: item2.label
+    100170: item2.label_end
+    100172: item2.mainLight
+    100174: item2.mainLight_end
+    100176: item2.ringDash
+    100178: item2.ringDash_end
+    100180: item2.ringL
+    100182: item2.ringL_end
+    100184: item2.ringS_1
+    100186: item2.ringS_1_end
+    100188: item2.ringS_2
+    100190: item2.ringS_2_end
+    100192: item2.ringS_3
+    100194: item2.ringS_3_end
+    100196: item2.ringS_Master
+    100198: item2.subLight.001
+    100200: item2.subLight.001_end
+    100202: item2.subLight.002
+    100204: item2.subLight.002_end
+    100206: item2.subLight.003
+    100208: item2.subLight.003_end
+    100210: item2.subLight.004
+    100212: item2.subLight.004_end
+    100214: item2.subLight.005
+    100216: item2.subLight.005_end
+    100218: item2.subLight.006
+    100220: item2.subLight.006_end
+    100222: item2.subLight.007
+    100224: item2.subLight.007_end
+    100226: item2.subLight.008
+    100228: item2.subLight.008_end
+    100230: item2.subLight.009
+    100232: item2.subLight.009_end
+    100234: item2.subLight.010
+    100236: item2.subLight.010_end
+    100238: item2.subLight.011
+    100240: item2.subLight.011_end
+    100242: item2.subLight.012
+    100244: item2.subLight.012_end
+    100246: item3
+    100248: item3.1
+    100250: item3.1.disc
+    100252: item3.1.disc_end
+    100254: item3.10
+    100256: item3.10.disc
+    100258: item3.10.disc_end
+    100260: item3.2
+    100262: item3.2.disc
+    100264: item3.2.disc_end
+    100266: item3.3
+    100268: item3.3.disc
+    100270: item3.3.disc_end
+    100272: item3.4
+    100274: item3.4.disc
+    100276: item3.4.disc_end
+    100278: item3.5
+    100280: item3.5.disc
+    100282: item3.5.disc_end
+    100284: item3.6
+    100286: item3.6.disc
+    100288: item3.6.disc_end
+    100290: item3.7
+    100292: item3.7.disc
+    100294: item3.7.disc_end
+    100296: item3.8
+    100298: item3.8.disc
+    100300: item3.8.disc_end
+    100302: item3.9
+    100304: item3.9.disc
+    100306: item3.9.disc_end
+    100308: item3.disc
+    100310: item3.disc_end
+    100312: item3.label
+    100314: item3.label_end
+    100316: item3.mainLight
+    100318: item3.mainLight_end
+    100320: item3.ringDash
+    100322: item3.ringDash_end
+    100324: item3.ringL
+    100326: item3.ringL_end
+    100328: item3.ringS_1
+    100330: item3.ringS_1_end
+    100332: item3.ringS_2
+    100334: item3.ringS_2_end
+    100336: item3.ringS_3
+    100338: item3.ringS_3_end
+    100340: item3.ringS_Master
+    100342: item3.subLight.001
+    100344: item3.subLight.001_end
+    100346: item3.subLight.002
+    100348: item3.subLight.002_end
+    100350: item3.subLight.003
+    100352: item3.subLight.003_end
+    100354: item3.subLight.004
+    100356: item3.subLight.004_end
+    100358: item3.subLight.005
+    100360: item3.subLight.005_end
+    100362: item3.subLight.006
+    100364: item3.subLight.006_end
+    100366: item3.subLight.007
+    100368: item3.subLight.007_end
+    100370: item3.subLight.008
+    100372: item3.subLight.008_end
+    100374: item3.subLight.009
+    100376: item3.subLight.009_end
+    100378: item3.subLight.010
+    100380: item3.subLight.010_end
+    100382: item4
+    100384: item4.1
+    100386: item4.1.disc
+    100388: item4.1.disc_end
+    100390: item4.2
+    100392: item4.2.disc
+    100394: item4.2.disc_end
+    100396: item4.3
+    100398: item4.3.disc
+    100400: item4.3.disc_end
+    100402: item4.4
+    100404: item4.4.disc
+    100406: item4.4.disc_end
+    100408: item4.5
+    100410: item4.5.disc
+    100412: item4.5.disc_end
+    100414: item4.6
+    100416: item4.6.disc
+    100418: item4.6.disc_end
+    100420: item4.7
+    100422: item4.7.disc
+    100424: item4.7.disc_end
+    100426: item4.disc
+    100428: item4.disc_end
+    100430: item4.label
+    100432: item4.label_end
+    100434: item4.mainLight
+    100436: item4.mainLight_end
+    100438: item4.ringDash
+    100440: item4.ringDash_end
+    100442: item4.ringL
+    100444: item4.ringL_end
+    100446: item4.ringS_1
+    100448: item4.ringS_1_end
+    100450: item4.ringS_2
+    100452: item4.ringS_2_end
+    100454: item4.ringS_3
+    100456: item4.ringS_3_end
+    100458: item4.ringS_Master
+    100460: item4.subLight.001
+    100462: item4.subLight.001_end
+    100464: item4.subLight.002
+    100466: item4.subLight.002_end
+    100468: item4.subLight.003
+    100470: item4.subLight.003_end
+    100472: item4.subLight.004
+    100474: item4.subLight.004_end
+    100476: item4.subLight.005
+    100478: item4.subLight.005_end
+    100480: item4.subLight.006
+    100482: item4.subLight.006_end
+    100484: item4.subLight.007
+    100486: item4.subLight.007_end
+    100488: item5
+    100490: item5.1
+    100492: item5.1.disc
+    100494: item5.1.disc_end
+    100496: item5.2
+    100498: item5.2.disc
+    100500: item5.2.disc_end
+    100502: item5.3
+    100504: item5.3.disc
+    100506: item5.3.disc_end
+    100508: item5.4
+    100510: item5.4.disc
+    100512: item5.4.disc_end
+    100514: item5.5
+    100516: item5.5.disc
+    100518: item5.5.disc_end
+    100520: item5.6
+    100522: item5.6.disc
+    100524: item5.6.disc_end
+    100526: item5.7
+    100528: item5.7.disc
+    100530: item5.7.disc_end
+    100532: item5.disc
+    100534: item5.disc_end
+    100536: item5.label
+    100538: item5.label_end
+    100540: item5.mainLight
+    100542: item5.mainLight_end
+    100544: item5.ringDash
+    100546: item5.ringDash_end
+    100548: item5.ringL
+    100550: item5.ringL_end
+    100552: item5.ringS_1
+    100554: item5.ringS_1_end
+    100556: item5.ringS_2
+    100558: item5.ringS_2_end
+    100560: item5.ringS_3
+    100562: item5.ringS_3_end
+    100564: item5.ringS_Master
+    100566: item5.subLight.001
+    100568: item5.subLight.001_end
+    100570: item5.subLight.002
+    100572: item5.subLight.002_end
+    100574: item5.subLight.003
+    100576: item5.subLight.003_end
+    100578: item5.subLight.004
+    100580: item5.subLight.004_end
+    100582: item5.subLight.005
+    100584: item5.subLight.005_end
+    100586: item5.subLight.006
+    100588: item5.subLight.006_end
+    100590: item5.subLight.007
+    100592: item5.subLight.007_end
+    100594: item6
+    100596: item6.1
+    100598: item6.1.disc
+    100600: item6.1.disc_end
+    100602: item6.2
+    100604: item6.2.disc
+    100606: item6.2.disc_end
+    100608: item6.3
+    100610: item6.3.disc
+    100612: item6.3.disc_end
+    100614: item6.4
+    100616: item6.4.disc
+    100618: item6.4.disc_end
+    100620: item6.5
+    100622: item6.5.disc
+    100624: item6.5.disc_end
+    100626: item6.disc
+    100628: item6.disc_end
+    100630: item6.label
+    100632: item6.label_end
+    100634: item6.mainLight
+    100636: item6.mainLight_end
+    100638: item6.ringDash
+    100640: item6.ringDash_end
+    100642: item6.ringL
+    100644: item6.ringL_end
+    100646: item6.ringS_1
+    100648: item6.ringS_1_end
+    100650: item6.ringS_2
+    100652: item6.ringS_2_end
+    100654: item6.ringS_3
+    100656: item6.ringS_3_end
+    100658: item6.ringS_Master
+    100660: item6.subLight.001
+    100662: item6.subLight.001_end
+    100664: item6.subLight.002
+    100666: item6.subLight.002_end
+    100668: item6.subLight.003
+    100670: item6.subLight.003_end
+    100672: item6.subLight.004
+    100674: item6.subLight.004_end
+    100676: item6.subLight.005
+    100678: item6.subLight.005_end
+    100680: Main
+    400000: Armature.001
+    400002: DWH_Diagram.001
+    400004: DWH_Diagram.001_MeshPart0
+    400006: DWH_Diagram.001_MeshPart1
+    400008: DWH_Diagram.001_MeshPart2
+    400010: DWH_Diagram.001_MeshPart3
+    400012: //RootNode
+    400014: item1
+    400016: item1.1
+    400018: item1.1.disc
+    400020: item1.1.disc_end
+    400022: item1.2
+    400024: item1.2.disc
+    400026: item1.2.disc_end
+    400028: item1.3
+    400030: item1.3.disc
+    400032: item1.3.disc_end
+    400034: item1.4
+    400036: item1.4.disc
+    400038: item1.4.disc_end
+    400040: item1.disc
+    400042: item1.disc_end
+    400044: item1.label
+    400046: item1.label_end
+    400048: item1.mainLight
+    400050: item1.mainLight_end
+    400052: item1.ringDash
+    400054: item1.ringDash_end
+    400056: item1.ringL
+    400058: item1.ringL_end
+    400060: item1.ringS_1
+    400062: item1.ringS_1_end
+    400064: item1.ringS_2
+    400066: item1.ringS_2_end
+    400068: item1.ringS_3
+    400070: item1.ringS_3_end
+    400072: item1.ringS_Master
+    400074: item1.subLight.001
+    400076: item1.subLight.001_end
+    400078: item1.subLight.002
+    400080: item1.subLight.002_end
+    400082: item1.subLight.003
+    400084: item1.subLight.003_end
+    400086: item1.subLight.004
+    400088: item1.subLight.004_end
+    400090: item2
+    400092: item2.1
+    400094: item2.1.disc
+    400096: item2.1.disc_end
+    400098: item2.10
+    400100: item2.10.disc
+    400102: item2.10.disc_end
+    400104: item2.11
+    400106: item2.11.disc
+    400108: item2.11.disc_end
+    400110: item2.12
+    400112: item2.12.disc
+    400114: item2.12.disc_end
+    400116: item2.2
+    400118: item2.2.disc
+    400120: item2.2.disc_end
+    400122: item2.3
+    400124: item2.3.disc
+    400126: item2.3.disc_end
+    400128: item2.4
+    400130: item2.4.disc
+    400132: item2.4.disc_end
+    400134: item2.5
+    400136: item2.5.disc
+    400138: item2.5.disc_end
+    400140: item2.6
+    400142: item2.6.disc
+    400144: item2.6.disc_end
+    400146: item2.7
+    400148: item2.7.disc
+    400150: item2.7.disc_end
+    400152: item2.8
+    400154: item2.8.disc
+    400156: item2.8.disc_end
+    400158: item2.9
+    400160: item2.9.disc
+    400162: item2.9.disc_end
+    400164: item2.disc
+    400166: item2.disc_end
+    400168: item2.label
+    400170: item2.label_end
+    400172: item2.mainLight
+    400174: item2.mainLight_end
+    400176: item2.ringDash
+    400178: item2.ringDash_end
+    400180: item2.ringL
+    400182: item2.ringL_end
+    400184: item2.ringS_1
+    400186: item2.ringS_1_end
+    400188: item2.ringS_2
+    400190: item2.ringS_2_end
+    400192: item2.ringS_3
+    400194: item2.ringS_3_end
+    400196: item2.ringS_Master
+    400198: item2.subLight.001
+    400200: item2.subLight.001_end
+    400202: item2.subLight.002
+    400204: item2.subLight.002_end
+    400206: item2.subLight.003
+    400208: item2.subLight.003_end
+    400210: item2.subLight.004
+    400212: item2.subLight.004_end
+    400214: item2.subLight.005
+    400216: item2.subLight.005_end
+    400218: item2.subLight.006
+    400220: item2.subLight.006_end
+    400222: item2.subLight.007
+    400224: item2.subLight.007_end
+    400226: item2.subLight.008
+    400228: item2.subLight.008_end
+    400230: item2.subLight.009
+    400232: item2.subLight.009_end
+    400234: item2.subLight.010
+    400236: item2.subLight.010_end
+    400238: item2.subLight.011
+    400240: item2.subLight.011_end
+    400242: item2.subLight.012
+    400244: item2.subLight.012_end
+    400246: item3
+    400248: item3.1
+    400250: item3.1.disc
+    400252: item3.1.disc_end
+    400254: item3.10
+    400256: item3.10.disc
+    400258: item3.10.disc_end
+    400260: item3.2
+    400262: item3.2.disc
+    400264: item3.2.disc_end
+    400266: item3.3
+    400268: item3.3.disc
+    400270: item3.3.disc_end
+    400272: item3.4
+    400274: item3.4.disc
+    400276: item3.4.disc_end
+    400278: item3.5
+    400280: item3.5.disc
+    400282: item3.5.disc_end
+    400284: item3.6
+    400286: item3.6.disc
+    400288: item3.6.disc_end
+    400290: item3.7
+    400292: item3.7.disc
+    400294: item3.7.disc_end
+    400296: item3.8
+    400298: item3.8.disc
+    400300: item3.8.disc_end
+    400302: item3.9
+    400304: item3.9.disc
+    400306: item3.9.disc_end
+    400308: item3.disc
+    400310: item3.disc_end
+    400312: item3.label
+    400314: item3.label_end
+    400316: item3.mainLight
+    400318: item3.mainLight_end
+    400320: item3.ringDash
+    400322: item3.ringDash_end
+    400324: item3.ringL
+    400326: item3.ringL_end
+    400328: item3.ringS_1
+    400330: item3.ringS_1_end
+    400332: item3.ringS_2
+    400334: item3.ringS_2_end
+    400336: item3.ringS_3
+    400338: item3.ringS_3_end
+    400340: item3.ringS_Master
+    400342: item3.subLight.001
+    400344: item3.subLight.001_end
+    400346: item3.subLight.002
+    400348: item3.subLight.002_end
+    400350: item3.subLight.003
+    400352: item3.subLight.003_end
+    400354: item3.subLight.004
+    400356: item3.subLight.004_end
+    400358: item3.subLight.005
+    400360: item3.subLight.005_end
+    400362: item3.subLight.006
+    400364: item3.subLight.006_end
+    400366: item3.subLight.007
+    400368: item3.subLight.007_end
+    400370: item3.subLight.008
+    400372: item3.subLight.008_end
+    400374: item3.subLight.009
+    400376: item3.subLight.009_end
+    400378: item3.subLight.010
+    400380: item3.subLight.010_end
+    400382: item4
+    400384: item4.1
+    400386: item4.1.disc
+    400388: item4.1.disc_end
+    400390: item4.2
+    400392: item4.2.disc
+    400394: item4.2.disc_end
+    400396: item4.3
+    400398: item4.3.disc
+    400400: item4.3.disc_end
+    400402: item4.4
+    400404: item4.4.disc
+    400406: item4.4.disc_end
+    400408: item4.5
+    400410: item4.5.disc
+    400412: item4.5.disc_end
+    400414: item4.6
+    400416: item4.6.disc
+    400418: item4.6.disc_end
+    400420: item4.7
+    400422: item4.7.disc
+    400424: item4.7.disc_end
+    400426: item4.disc
+    400428: item4.disc_end
+    400430: item4.label
+    400432: item4.label_end
+    400434: item4.mainLight
+    400436: item4.mainLight_end
+    400438: item4.ringDash
+    400440: item4.ringDash_end
+    400442: item4.ringL
+    400444: item4.ringL_end
+    400446: item4.ringS_1
+    400448: item4.ringS_1_end
+    400450: item4.ringS_2
+    400452: item4.ringS_2_end
+    400454: item4.ringS_3
+    400456: item4.ringS_3_end
+    400458: item4.ringS_Master
+    400460: item4.subLight.001
+    400462: item4.subLight.001_end
+    400464: item4.subLight.002
+    400466: item4.subLight.002_end
+    400468: item4.subLight.003
+    400470: item4.subLight.003_end
+    400472: item4.subLight.004
+    400474: item4.subLight.004_end
+    400476: item4.subLight.005
+    400478: item4.subLight.005_end
+    400480: item4.subLight.006
+    400482: item4.subLight.006_end
+    400484: item4.subLight.007
+    400486: item4.subLight.007_end
+    400488: item5
+    400490: item5.1
+    400492: item5.1.disc
+    400494: item5.1.disc_end
+    400496: item5.2
+    400498: item5.2.disc
+    400500: item5.2.disc_end
+    400502: item5.3
+    400504: item5.3.disc
+    400506: item5.3.disc_end
+    400508: item5.4
+    400510: item5.4.disc
+    400512: item5.4.disc_end
+    400514: item5.5
+    400516: item5.5.disc
+    400518: item5.5.disc_end
+    400520: item5.6
+    400522: item5.6.disc
+    400524: item5.6.disc_end
+    400526: item5.7
+    400528: item5.7.disc
+    400530: item5.7.disc_end
+    400532: item5.disc
+    400534: item5.disc_end
+    400536: item5.label
+    400538: item5.label_end
+    400540: item5.mainLight
+    400542: item5.mainLight_end
+    400544: item5.ringDash
+    400546: item5.ringDash_end
+    400548: item5.ringL
+    400550: item5.ringL_end
+    400552: item5.ringS_1
+    400554: item5.ringS_1_end
+    400556: item5.ringS_2
+    400558: item5.ringS_2_end
+    400560: item5.ringS_3
+    400562: item5.ringS_3_end
+    400564: item5.ringS_Master
+    400566: item5.subLight.001
+    400568: item5.subLight.001_end
+    400570: item5.subLight.002
+    400572: item5.subLight.002_end
+    400574: item5.subLight.003
+    400576: item5.subLight.003_end
+    400578: item5.subLight.004
+    400580: item5.subLight.004_end
+    400582: item5.subLight.005
+    400584: item5.subLight.005_end
+    400586: item5.subLight.006
+    400588: item5.subLight.006_end
+    400590: item5.subLight.007
+    400592: item5.subLight.007_end
+    400594: item6
+    400596: item6.1
+    400598: item6.1.disc
+    400600: item6.1.disc_end
+    400602: item6.2
+    400604: item6.2.disc
+    400606: item6.2.disc_end
+    400608: item6.3
+    400610: item6.3.disc
+    400612: item6.3.disc_end
+    400614: item6.4
+    400616: item6.4.disc
+    400618: item6.4.disc_end
+    400620: item6.5
+    400622: item6.5.disc
+    400624: item6.5.disc_end
+    400626: item6.disc
+    400628: item6.disc_end
+    400630: item6.label
+    400632: item6.label_end
+    400634: item6.mainLight
+    400636: item6.mainLight_end
+    400638: item6.ringDash
+    400640: item6.ringDash_end
+    400642: item6.ringL
+    400644: item6.ringL_end
+    400646: item6.ringS_1
+    400648: item6.ringS_1_end
+    400650: item6.ringS_2
+    400652: item6.ringS_2_end
+    400654: item6.ringS_3
+    400656: item6.ringS_3_end
+    400658: item6.ringS_Master
+    400660: item6.subLight.001
+    400662: item6.subLight.001_end
+    400664: item6.subLight.002
+    400666: item6.subLight.002_end
+    400668: item6.subLight.003
+    400670: item6.subLight.003_end
+    400672: item6.subLight.004
+    400674: item6.subLight.004_end
+    400676: item6.subLight.005
+    400678: item6.subLight.005_end
+    400680: Main
+    4300000: DWH_Diagram.001_MeshPart0
+    4300002: DWH_Diagram.001_MeshPart1
+    4300004: DWH_Diagram.001_MeshPart2
+    4300006: DWH_Diagram.001_MeshPart3
+    7400000: Armature.001|ArmatureAction.001
+    7400002: Armature.001|DWH_Diagram.001Action
+    7400004: DWH_Diagram.001|DWH_Diagram.001Action
+    7400006: Obj1-Intro
+    9500000: //RootNode
+    13700000: DWH_Diagram.001_MeshPart0
+    13700002: DWH_Diagram.001_MeshPart1
+    13700004: DWH_Diagram.001_MeshPart2
+    13700006: DWH_Diagram.001_MeshPart3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature.001|ArmatureAction.001
+      takeName: Armature.001|ArmatureAction.001
+      firstFrame: 0
+      lastFrame: 810
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature.001
+        weight: 1
+      - path: Armature.001/Main
+        weight: 1
+      - path: Armature.001/Main/item1
+        weight: 1
+      - path: Armature.001/Main/item1/item1.1
+        weight: 1
+      - path: Armature.001/Main/item1/item1.1/item1.1.disc
+        weight: 1
+      - path: Armature.001/Main/item1/item1.1/item1.1.disc/item1.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.2
+        weight: 1
+      - path: Armature.001/Main/item1/item1.2/item1.2.disc
+        weight: 1
+      - path: Armature.001/Main/item1/item1.2/item1.2.disc/item1.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.3
+        weight: 1
+      - path: Armature.001/Main/item1/item1.3/item1.3.disc
+        weight: 1
+      - path: Armature.001/Main/item1/item1.3/item1.3.disc/item1.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.4
+        weight: 1
+      - path: Armature.001/Main/item1/item1.4/item1.4.disc
+        weight: 1
+      - path: Armature.001/Main/item1/item1.4/item1.4.disc/item1.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.disc
+        weight: 1
+      - path: Armature.001/Main/item1/item1.disc/item1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.label
+        weight: 1
+      - path: Armature.001/Main/item1/item1.label/item1.label_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.mainLight
+        weight: 1
+      - path: Armature.001/Main/item1/item1.mainLight/item1.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringDash
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringDash/item1.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringL
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringL/item1.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_1/item1.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_2/item1.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_3/item1.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.001/item1.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.002/item1.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.003/item1.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.004/item1.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item2
+        weight: 1
+      - path: Armature.001/Main/item2/item2.1
+        weight: 1
+      - path: Armature.001/Main/item2/item2.1/item2.1.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.1/item2.1.disc/item2.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.2
+        weight: 1
+      - path: Armature.001/Main/item2/item2.2/item2.2.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.2/item2.2.disc/item2.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.3
+        weight: 1
+      - path: Armature.001/Main/item2/item2.3/item2.3.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.3/item2.3.disc/item2.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.4
+        weight: 1
+      - path: Armature.001/Main/item2/item2.4/item2.4.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.4/item2.4.disc/item2.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.5
+        weight: 1
+      - path: Armature.001/Main/item2/item2.5/item2.5.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.5/item2.5.disc/item2.5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.6
+        weight: 1
+      - path: Armature.001/Main/item2/item2.6/item2.6.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.6/item2.6.disc/item2.6.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.7
+        weight: 1
+      - path: Armature.001/Main/item2/item2.7/item2.7.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.7/item2.7.disc/item2.7.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.8
+        weight: 1
+      - path: Armature.001/Main/item2/item2.8/item2.8.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.8/item2.8.disc/item2.8.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.9
+        weight: 1
+      - path: Armature.001/Main/item2/item2.9/item2.9.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.9/item2.9.disc/item2.9.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.10
+        weight: 1
+      - path: Armature.001/Main/item2/item2.10/item2.10.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.10/item2.10.disc/item2.10.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.11
+        weight: 1
+      - path: Armature.001/Main/item2/item2.11/item2.11.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.11/item2.11.disc/item2.11.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.12
+        weight: 1
+      - path: Armature.001/Main/item2/item2.12/item2.12.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.12/item2.12.disc/item2.12.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.disc/item2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.label
+        weight: 1
+      - path: Armature.001/Main/item2/item2.label/item2.label_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.mainLight
+        weight: 1
+      - path: Armature.001/Main/item2/item2.mainLight/item2.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringDash
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringDash/item2.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringL
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringL/item2.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_1/item2.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_2/item2.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_3/item2.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.001/item2.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.002/item2.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.003/item2.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.004/item2.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.005
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.005/item2.subLight.005_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.006
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.006/item2.subLight.006_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.007
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.007/item2.subLight.007_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.008
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.008/item2.subLight.008_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.009
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.009/item2.subLight.009_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.010
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.010/item2.subLight.010_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.011
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.011/item2.subLight.011_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.012
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.012/item2.subLight.012_end
+        weight: 1
+      - path: Armature.001/Main/item3
+        weight: 1
+      - path: Armature.001/Main/item3/item3.1
+        weight: 1
+      - path: Armature.001/Main/item3/item3.1/item3.1.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.1/item3.1.disc/item3.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.2
+        weight: 1
+      - path: Armature.001/Main/item3/item3.2/item3.2.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.2/item3.2.disc/item3.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.3
+        weight: 1
+      - path: Armature.001/Main/item3/item3.3/item3.3.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.3/item3.3.disc/item3.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.4
+        weight: 1
+      - path: Armature.001/Main/item3/item3.4/item3.4.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.4/item3.4.disc/item3.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.5
+        weight: 1
+      - path: Armature.001/Main/item3/item3.5/item3.5.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.5/item3.5.disc/item3.5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.6
+        weight: 1
+      - path: Armature.001/Main/item3/item3.6/item3.6.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.6/item3.6.disc/item3.6.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.7
+        weight: 1
+      - path: Armature.001/Main/item3/item3.7/item3.7.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.7/item3.7.disc/item3.7.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.8
+        weight: 1
+      - path: Armature.001/Main/item3/item3.8/item3.8.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.8/item3.8.disc/item3.8.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.9
+        weight: 1
+      - path: Armature.001/Main/item3/item3.9/item3.9.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.9/item3.9.disc/item3.9.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.10
+        weight: 1
+      - path: Armature.001/Main/item3/item3.10/item3.10.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.10/item3.10.disc/item3.10.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.disc/item3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.label
+        weight: 1
+      - path: Armature.001/Main/item3/item3.label/item3.label_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.mainLight
+        weight: 1
+      - path: Armature.001/Main/item3/item3.mainLight/item3.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringDash
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringDash/item3.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringL
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringL/item3.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_1/item3.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_2/item3.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_3/item3.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.001/item3.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.002/item3.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.003/item3.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.004/item3.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.005
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.005/item3.subLight.005_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.006
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.006/item3.subLight.006_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.007
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.007/item3.subLight.007_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.008
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.008/item3.subLight.008_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.009
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.009/item3.subLight.009_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.010
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.010/item3.subLight.010_end
+        weight: 1
+      - path: Armature.001/Main/item4
+        weight: 1
+      - path: Armature.001/Main/item4/item4.1
+        weight: 1
+      - path: Armature.001/Main/item4/item4.1/item4.1.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.1/item4.1.disc/item4.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.2
+        weight: 1
+      - path: Armature.001/Main/item4/item4.2/item4.2.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.2/item4.2.disc/item4.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.3
+        weight: 1
+      - path: Armature.001/Main/item4/item4.3/item4.3.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.3/item4.3.disc/item4.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.4
+        weight: 1
+      - path: Armature.001/Main/item4/item4.4/item4.4.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.4/item4.4.disc/item4.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.5
+        weight: 1
+      - path: Armature.001/Main/item4/item4.5/item4.5.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.5/item4.5.disc/item4.5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.6
+        weight: 1
+      - path: Armature.001/Main/item4/item4.6/item4.6.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.6/item4.6.disc/item4.6.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.7
+        weight: 1
+      - path: Armature.001/Main/item4/item4.7/item4.7.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.7/item4.7.disc/item4.7.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.disc/item4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.label
+        weight: 1
+      - path: Armature.001/Main/item4/item4.label/item4.label_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.mainLight
+        weight: 1
+      - path: Armature.001/Main/item4/item4.mainLight/item4.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringDash
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringDash/item4.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringL
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringL/item4.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_1/item4.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_2/item4.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_3/item4.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.001/item4.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.002/item4.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.003/item4.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.004/item4.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.005
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.005/item4.subLight.005_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.006
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.006/item4.subLight.006_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.007
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.007/item4.subLight.007_end
+        weight: 1
+      - path: Armature.001/Main/item5
+        weight: 1
+      - path: Armature.001/Main/item5/item5.1
+        weight: 1
+      - path: Armature.001/Main/item5/item5.1/item5.1.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.1/item5.1.disc/item5.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.2
+        weight: 1
+      - path: Armature.001/Main/item5/item5.2/item5.2.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.2/item5.2.disc/item5.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.3
+        weight: 1
+      - path: Armature.001/Main/item5/item5.3/item5.3.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.3/item5.3.disc/item5.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.4
+        weight: 1
+      - path: Armature.001/Main/item5/item5.4/item5.4.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.4/item5.4.disc/item5.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.5
+        weight: 1
+      - path: Armature.001/Main/item5/item5.5/item5.5.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.5/item5.5.disc/item5.5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.6
+        weight: 1
+      - path: Armature.001/Main/item5/item5.6/item5.6.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.6/item5.6.disc/item5.6.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.7
+        weight: 1
+      - path: Armature.001/Main/item5/item5.7/item5.7.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.7/item5.7.disc/item5.7.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.disc/item5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.label
+        weight: 1
+      - path: Armature.001/Main/item5/item5.label/item5.label_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.mainLight
+        weight: 1
+      - path: Armature.001/Main/item5/item5.mainLight/item5.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringDash
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringDash/item5.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringL
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringL/item5.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_1/item5.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_2/item5.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_3/item5.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.001/item5.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.002/item5.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.003/item5.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.004/item5.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.005
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.005/item5.subLight.005_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.006
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.006/item5.subLight.006_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.007
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.007/item5.subLight.007_end
+        weight: 1
+      - path: Armature.001/Main/item6
+        weight: 1
+      - path: Armature.001/Main/item6/item6.1
+        weight: 1
+      - path: Armature.001/Main/item6/item6.1/item6.1.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.1/item6.1.disc/item6.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.2
+        weight: 1
+      - path: Armature.001/Main/item6/item6.2/item6.2.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.2/item6.2.disc/item6.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.3
+        weight: 1
+      - path: Armature.001/Main/item6/item6.3/item6.3.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.3/item6.3.disc/item6.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.4
+        weight: 1
+      - path: Armature.001/Main/item6/item6.4/item6.4.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.4/item6.4.disc/item6.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.5
+        weight: 1
+      - path: Armature.001/Main/item6/item6.5/item6.5.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.5/item6.5.disc/item6.5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.disc/item6.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.label
+        weight: 1
+      - path: Armature.001/Main/item6/item6.label/item6.label_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.mainLight
+        weight: 1
+      - path: Armature.001/Main/item6/item6.mainLight/item6.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringDash
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringDash/item6.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringL
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringL/item6.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_1/item6.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_2/item6.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_3/item6.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.001/item6.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.002/item6.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.003/item6.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.004/item6.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.005
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.005/item6.subLight.005_end
+        weight: 1
+      - path: DWH_Diagram.001
+        weight: 1
+      - path: DWH_Diagram.001/DWH_Diagram.001_MeshPart0
+        weight: 1
+      - path: DWH_Diagram.001/DWH_Diagram.001_MeshPart1
+        weight: 1
+      - path: DWH_Diagram.001/DWH_Diagram.001_MeshPart2
+        weight: 1
+      - path: DWH_Diagram.001/DWH_Diagram.001_MeshPart3
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|DWH_Diagram.001Action
+      takeName: Armature.001|DWH_Diagram.001Action
+      firstFrame: 0
+      lastFrame: 810
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature.001
+        weight: 1
+      - path: Armature.001/Main
+        weight: 1
+      - path: Armature.001/Main/item1
+        weight: 1
+      - path: Armature.001/Main/item1/item1.1
+        weight: 1
+      - path: Armature.001/Main/item1/item1.1/item1.1.disc
+        weight: 1
+      - path: Armature.001/Main/item1/item1.1/item1.1.disc/item1.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.2
+        weight: 1
+      - path: Armature.001/Main/item1/item1.2/item1.2.disc
+        weight: 1
+      - path: Armature.001/Main/item1/item1.2/item1.2.disc/item1.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.3
+        weight: 1
+      - path: Armature.001/Main/item1/item1.3/item1.3.disc
+        weight: 1
+      - path: Armature.001/Main/item1/item1.3/item1.3.disc/item1.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.4
+        weight: 1
+      - path: Armature.001/Main/item1/item1.4/item1.4.disc
+        weight: 1
+      - path: Armature.001/Main/item1/item1.4/item1.4.disc/item1.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.disc
+        weight: 1
+      - path: Armature.001/Main/item1/item1.disc/item1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.label
+        weight: 1
+      - path: Armature.001/Main/item1/item1.label/item1.label_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.mainLight
+        weight: 1
+      - path: Armature.001/Main/item1/item1.mainLight/item1.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringDash
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringDash/item1.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringL
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringL/item1.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_1/item1.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_2/item1.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_3/item1.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.001/item1.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.002/item1.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.003/item1.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.004/item1.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item2
+        weight: 1
+      - path: Armature.001/Main/item2/item2.1
+        weight: 1
+      - path: Armature.001/Main/item2/item2.1/item2.1.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.1/item2.1.disc/item2.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.2
+        weight: 1
+      - path: Armature.001/Main/item2/item2.2/item2.2.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.2/item2.2.disc/item2.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.3
+        weight: 1
+      - path: Armature.001/Main/item2/item2.3/item2.3.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.3/item2.3.disc/item2.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.4
+        weight: 1
+      - path: Armature.001/Main/item2/item2.4/item2.4.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.4/item2.4.disc/item2.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.5
+        weight: 1
+      - path: Armature.001/Main/item2/item2.5/item2.5.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.5/item2.5.disc/item2.5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.6
+        weight: 1
+      - path: Armature.001/Main/item2/item2.6/item2.6.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.6/item2.6.disc/item2.6.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.7
+        weight: 1
+      - path: Armature.001/Main/item2/item2.7/item2.7.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.7/item2.7.disc/item2.7.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.8
+        weight: 1
+      - path: Armature.001/Main/item2/item2.8/item2.8.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.8/item2.8.disc/item2.8.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.9
+        weight: 1
+      - path: Armature.001/Main/item2/item2.9/item2.9.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.9/item2.9.disc/item2.9.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.10
+        weight: 1
+      - path: Armature.001/Main/item2/item2.10/item2.10.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.10/item2.10.disc/item2.10.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.11
+        weight: 1
+      - path: Armature.001/Main/item2/item2.11/item2.11.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.11/item2.11.disc/item2.11.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.12
+        weight: 1
+      - path: Armature.001/Main/item2/item2.12/item2.12.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.12/item2.12.disc/item2.12.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.disc/item2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.label
+        weight: 1
+      - path: Armature.001/Main/item2/item2.label/item2.label_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.mainLight
+        weight: 1
+      - path: Armature.001/Main/item2/item2.mainLight/item2.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringDash
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringDash/item2.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringL
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringL/item2.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_1/item2.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_2/item2.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_3/item2.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.001/item2.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.002/item2.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.003/item2.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.004/item2.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.005
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.005/item2.subLight.005_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.006
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.006/item2.subLight.006_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.007
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.007/item2.subLight.007_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.008
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.008/item2.subLight.008_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.009
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.009/item2.subLight.009_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.010
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.010/item2.subLight.010_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.011
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.011/item2.subLight.011_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.012
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.012/item2.subLight.012_end
+        weight: 1
+      - path: Armature.001/Main/item3
+        weight: 1
+      - path: Armature.001/Main/item3/item3.1
+        weight: 1
+      - path: Armature.001/Main/item3/item3.1/item3.1.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.1/item3.1.disc/item3.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.2
+        weight: 1
+      - path: Armature.001/Main/item3/item3.2/item3.2.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.2/item3.2.disc/item3.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.3
+        weight: 1
+      - path: Armature.001/Main/item3/item3.3/item3.3.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.3/item3.3.disc/item3.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.4
+        weight: 1
+      - path: Armature.001/Main/item3/item3.4/item3.4.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.4/item3.4.disc/item3.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.5
+        weight: 1
+      - path: Armature.001/Main/item3/item3.5/item3.5.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.5/item3.5.disc/item3.5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.6
+        weight: 1
+      - path: Armature.001/Main/item3/item3.6/item3.6.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.6/item3.6.disc/item3.6.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.7
+        weight: 1
+      - path: Armature.001/Main/item3/item3.7/item3.7.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.7/item3.7.disc/item3.7.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.8
+        weight: 1
+      - path: Armature.001/Main/item3/item3.8/item3.8.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.8/item3.8.disc/item3.8.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.9
+        weight: 1
+      - path: Armature.001/Main/item3/item3.9/item3.9.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.9/item3.9.disc/item3.9.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.10
+        weight: 1
+      - path: Armature.001/Main/item3/item3.10/item3.10.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.10/item3.10.disc/item3.10.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.disc/item3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.label
+        weight: 1
+      - path: Armature.001/Main/item3/item3.label/item3.label_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.mainLight
+        weight: 1
+      - path: Armature.001/Main/item3/item3.mainLight/item3.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringDash
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringDash/item3.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringL
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringL/item3.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_1/item3.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_2/item3.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_3/item3.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.001/item3.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.002/item3.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.003/item3.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.004/item3.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.005
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.005/item3.subLight.005_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.006
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.006/item3.subLight.006_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.007
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.007/item3.subLight.007_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.008
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.008/item3.subLight.008_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.009
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.009/item3.subLight.009_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.010
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.010/item3.subLight.010_end
+        weight: 1
+      - path: Armature.001/Main/item4
+        weight: 1
+      - path: Armature.001/Main/item4/item4.1
+        weight: 1
+      - path: Armature.001/Main/item4/item4.1/item4.1.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.1/item4.1.disc/item4.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.2
+        weight: 1
+      - path: Armature.001/Main/item4/item4.2/item4.2.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.2/item4.2.disc/item4.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.3
+        weight: 1
+      - path: Armature.001/Main/item4/item4.3/item4.3.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.3/item4.3.disc/item4.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.4
+        weight: 1
+      - path: Armature.001/Main/item4/item4.4/item4.4.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.4/item4.4.disc/item4.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.5
+        weight: 1
+      - path: Armature.001/Main/item4/item4.5/item4.5.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.5/item4.5.disc/item4.5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.6
+        weight: 1
+      - path: Armature.001/Main/item4/item4.6/item4.6.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.6/item4.6.disc/item4.6.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.7
+        weight: 1
+      - path: Armature.001/Main/item4/item4.7/item4.7.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.7/item4.7.disc/item4.7.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.disc/item4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.label
+        weight: 1
+      - path: Armature.001/Main/item4/item4.label/item4.label_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.mainLight
+        weight: 1
+      - path: Armature.001/Main/item4/item4.mainLight/item4.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringDash
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringDash/item4.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringL
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringL/item4.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_1/item4.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_2/item4.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_3/item4.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.001/item4.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.002/item4.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.003/item4.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.004/item4.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.005
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.005/item4.subLight.005_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.006
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.006/item4.subLight.006_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.007
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.007/item4.subLight.007_end
+        weight: 1
+      - path: Armature.001/Main/item5
+        weight: 1
+      - path: Armature.001/Main/item5/item5.1
+        weight: 1
+      - path: Armature.001/Main/item5/item5.1/item5.1.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.1/item5.1.disc/item5.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.2
+        weight: 1
+      - path: Armature.001/Main/item5/item5.2/item5.2.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.2/item5.2.disc/item5.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.3
+        weight: 1
+      - path: Armature.001/Main/item5/item5.3/item5.3.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.3/item5.3.disc/item5.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.4
+        weight: 1
+      - path: Armature.001/Main/item5/item5.4/item5.4.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.4/item5.4.disc/item5.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.5
+        weight: 1
+      - path: Armature.001/Main/item5/item5.5/item5.5.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.5/item5.5.disc/item5.5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.6
+        weight: 1
+      - path: Armature.001/Main/item5/item5.6/item5.6.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.6/item5.6.disc/item5.6.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.7
+        weight: 1
+      - path: Armature.001/Main/item5/item5.7/item5.7.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.7/item5.7.disc/item5.7.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.disc/item5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.label
+        weight: 1
+      - path: Armature.001/Main/item5/item5.label/item5.label_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.mainLight
+        weight: 1
+      - path: Armature.001/Main/item5/item5.mainLight/item5.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringDash
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringDash/item5.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringL
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringL/item5.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_1/item5.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_2/item5.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_3/item5.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.001/item5.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.002/item5.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.003/item5.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.004/item5.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.005
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.005/item5.subLight.005_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.006
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.006/item5.subLight.006_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.007
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.007/item5.subLight.007_end
+        weight: 1
+      - path: Armature.001/Main/item6
+        weight: 1
+      - path: Armature.001/Main/item6/item6.1
+        weight: 1
+      - path: Armature.001/Main/item6/item6.1/item6.1.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.1/item6.1.disc/item6.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.2
+        weight: 1
+      - path: Armature.001/Main/item6/item6.2/item6.2.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.2/item6.2.disc/item6.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.3
+        weight: 1
+      - path: Armature.001/Main/item6/item6.3/item6.3.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.3/item6.3.disc/item6.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.4
+        weight: 1
+      - path: Armature.001/Main/item6/item6.4/item6.4.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.4/item6.4.disc/item6.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.5
+        weight: 1
+      - path: Armature.001/Main/item6/item6.5/item6.5.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.5/item6.5.disc/item6.5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.disc/item6.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.label
+        weight: 1
+      - path: Armature.001/Main/item6/item6.label/item6.label_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.mainLight
+        weight: 1
+      - path: Armature.001/Main/item6/item6.mainLight/item6.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringDash
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringDash/item6.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringL
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringL/item6.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_1/item6.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_2/item6.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_3/item6.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.001/item6.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.002/item6.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.003/item6.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.004/item6.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.005
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.005/item6.subLight.005_end
+        weight: 1
+      - path: DWH_Diagram.001
+        weight: 1
+      - path: DWH_Diagram.001/DWH_Diagram.001_MeshPart0
+        weight: 1
+      - path: DWH_Diagram.001/DWH_Diagram.001_MeshPart1
+        weight: 1
+      - path: DWH_Diagram.001/DWH_Diagram.001_MeshPart2
+        weight: 1
+      - path: DWH_Diagram.001/DWH_Diagram.001_MeshPart3
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: DWH_Diagram.001|DWH_Diagram.001Action
+      takeName: DWH_Diagram.001|DWH_Diagram.001Action
+      firstFrame: 0
+      lastFrame: 810
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature.001
+        weight: 1
+      - path: Armature.001/Main
+        weight: 1
+      - path: Armature.001/Main/item1
+        weight: 1
+      - path: Armature.001/Main/item1/item1.1
+        weight: 1
+      - path: Armature.001/Main/item1/item1.1/item1.1.disc
+        weight: 1
+      - path: Armature.001/Main/item1/item1.1/item1.1.disc/item1.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.2
+        weight: 1
+      - path: Armature.001/Main/item1/item1.2/item1.2.disc
+        weight: 1
+      - path: Armature.001/Main/item1/item1.2/item1.2.disc/item1.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.3
+        weight: 1
+      - path: Armature.001/Main/item1/item1.3/item1.3.disc
+        weight: 1
+      - path: Armature.001/Main/item1/item1.3/item1.3.disc/item1.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.4
+        weight: 1
+      - path: Armature.001/Main/item1/item1.4/item1.4.disc
+        weight: 1
+      - path: Armature.001/Main/item1/item1.4/item1.4.disc/item1.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.disc
+        weight: 1
+      - path: Armature.001/Main/item1/item1.disc/item1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.label
+        weight: 1
+      - path: Armature.001/Main/item1/item1.label/item1.label_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.mainLight
+        weight: 1
+      - path: Armature.001/Main/item1/item1.mainLight/item1.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringDash
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringDash/item1.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringL
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringL/item1.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_1/item1.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_2/item1.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_3/item1.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.001/item1.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.002/item1.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.003/item1.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.004/item1.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item2
+        weight: 1
+      - path: Armature.001/Main/item2/item2.1
+        weight: 1
+      - path: Armature.001/Main/item2/item2.1/item2.1.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.1/item2.1.disc/item2.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.2
+        weight: 1
+      - path: Armature.001/Main/item2/item2.2/item2.2.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.2/item2.2.disc/item2.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.3
+        weight: 1
+      - path: Armature.001/Main/item2/item2.3/item2.3.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.3/item2.3.disc/item2.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.4
+        weight: 1
+      - path: Armature.001/Main/item2/item2.4/item2.4.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.4/item2.4.disc/item2.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.5
+        weight: 1
+      - path: Armature.001/Main/item2/item2.5/item2.5.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.5/item2.5.disc/item2.5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.6
+        weight: 1
+      - path: Armature.001/Main/item2/item2.6/item2.6.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.6/item2.6.disc/item2.6.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.7
+        weight: 1
+      - path: Armature.001/Main/item2/item2.7/item2.7.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.7/item2.7.disc/item2.7.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.8
+        weight: 1
+      - path: Armature.001/Main/item2/item2.8/item2.8.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.8/item2.8.disc/item2.8.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.9
+        weight: 1
+      - path: Armature.001/Main/item2/item2.9/item2.9.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.9/item2.9.disc/item2.9.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.10
+        weight: 1
+      - path: Armature.001/Main/item2/item2.10/item2.10.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.10/item2.10.disc/item2.10.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.11
+        weight: 1
+      - path: Armature.001/Main/item2/item2.11/item2.11.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.11/item2.11.disc/item2.11.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.12
+        weight: 1
+      - path: Armature.001/Main/item2/item2.12/item2.12.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.12/item2.12.disc/item2.12.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.disc/item2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.label
+        weight: 1
+      - path: Armature.001/Main/item2/item2.label/item2.label_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.mainLight
+        weight: 1
+      - path: Armature.001/Main/item2/item2.mainLight/item2.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringDash
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringDash/item2.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringL
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringL/item2.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_1/item2.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_2/item2.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_3/item2.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.001/item2.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.002/item2.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.003/item2.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.004/item2.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.005
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.005/item2.subLight.005_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.006
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.006/item2.subLight.006_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.007
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.007/item2.subLight.007_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.008
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.008/item2.subLight.008_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.009
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.009/item2.subLight.009_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.010
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.010/item2.subLight.010_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.011
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.011/item2.subLight.011_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.012
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.012/item2.subLight.012_end
+        weight: 1
+      - path: Armature.001/Main/item3
+        weight: 1
+      - path: Armature.001/Main/item3/item3.1
+        weight: 1
+      - path: Armature.001/Main/item3/item3.1/item3.1.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.1/item3.1.disc/item3.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.2
+        weight: 1
+      - path: Armature.001/Main/item3/item3.2/item3.2.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.2/item3.2.disc/item3.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.3
+        weight: 1
+      - path: Armature.001/Main/item3/item3.3/item3.3.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.3/item3.3.disc/item3.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.4
+        weight: 1
+      - path: Armature.001/Main/item3/item3.4/item3.4.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.4/item3.4.disc/item3.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.5
+        weight: 1
+      - path: Armature.001/Main/item3/item3.5/item3.5.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.5/item3.5.disc/item3.5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.6
+        weight: 1
+      - path: Armature.001/Main/item3/item3.6/item3.6.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.6/item3.6.disc/item3.6.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.7
+        weight: 1
+      - path: Armature.001/Main/item3/item3.7/item3.7.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.7/item3.7.disc/item3.7.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.8
+        weight: 1
+      - path: Armature.001/Main/item3/item3.8/item3.8.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.8/item3.8.disc/item3.8.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.9
+        weight: 1
+      - path: Armature.001/Main/item3/item3.9/item3.9.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.9/item3.9.disc/item3.9.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.10
+        weight: 1
+      - path: Armature.001/Main/item3/item3.10/item3.10.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.10/item3.10.disc/item3.10.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.disc/item3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.label
+        weight: 1
+      - path: Armature.001/Main/item3/item3.label/item3.label_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.mainLight
+        weight: 1
+      - path: Armature.001/Main/item3/item3.mainLight/item3.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringDash
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringDash/item3.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringL
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringL/item3.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_1/item3.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_2/item3.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_3/item3.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.001/item3.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.002/item3.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.003/item3.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.004/item3.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.005
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.005/item3.subLight.005_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.006
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.006/item3.subLight.006_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.007
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.007/item3.subLight.007_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.008
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.008/item3.subLight.008_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.009
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.009/item3.subLight.009_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.010
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.010/item3.subLight.010_end
+        weight: 1
+      - path: Armature.001/Main/item4
+        weight: 1
+      - path: Armature.001/Main/item4/item4.1
+        weight: 1
+      - path: Armature.001/Main/item4/item4.1/item4.1.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.1/item4.1.disc/item4.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.2
+        weight: 1
+      - path: Armature.001/Main/item4/item4.2/item4.2.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.2/item4.2.disc/item4.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.3
+        weight: 1
+      - path: Armature.001/Main/item4/item4.3/item4.3.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.3/item4.3.disc/item4.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.4
+        weight: 1
+      - path: Armature.001/Main/item4/item4.4/item4.4.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.4/item4.4.disc/item4.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.5
+        weight: 1
+      - path: Armature.001/Main/item4/item4.5/item4.5.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.5/item4.5.disc/item4.5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.6
+        weight: 1
+      - path: Armature.001/Main/item4/item4.6/item4.6.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.6/item4.6.disc/item4.6.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.7
+        weight: 1
+      - path: Armature.001/Main/item4/item4.7/item4.7.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.7/item4.7.disc/item4.7.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.disc/item4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.label
+        weight: 1
+      - path: Armature.001/Main/item4/item4.label/item4.label_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.mainLight
+        weight: 1
+      - path: Armature.001/Main/item4/item4.mainLight/item4.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringDash
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringDash/item4.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringL
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringL/item4.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_1/item4.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_2/item4.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_3/item4.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.001/item4.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.002/item4.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.003/item4.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.004/item4.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.005
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.005/item4.subLight.005_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.006
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.006/item4.subLight.006_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.007
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.007/item4.subLight.007_end
+        weight: 1
+      - path: Armature.001/Main/item5
+        weight: 1
+      - path: Armature.001/Main/item5/item5.1
+        weight: 1
+      - path: Armature.001/Main/item5/item5.1/item5.1.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.1/item5.1.disc/item5.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.2
+        weight: 1
+      - path: Armature.001/Main/item5/item5.2/item5.2.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.2/item5.2.disc/item5.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.3
+        weight: 1
+      - path: Armature.001/Main/item5/item5.3/item5.3.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.3/item5.3.disc/item5.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.4
+        weight: 1
+      - path: Armature.001/Main/item5/item5.4/item5.4.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.4/item5.4.disc/item5.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.5
+        weight: 1
+      - path: Armature.001/Main/item5/item5.5/item5.5.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.5/item5.5.disc/item5.5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.6
+        weight: 1
+      - path: Armature.001/Main/item5/item5.6/item5.6.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.6/item5.6.disc/item5.6.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.7
+        weight: 1
+      - path: Armature.001/Main/item5/item5.7/item5.7.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.7/item5.7.disc/item5.7.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.disc/item5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.label
+        weight: 1
+      - path: Armature.001/Main/item5/item5.label/item5.label_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.mainLight
+        weight: 1
+      - path: Armature.001/Main/item5/item5.mainLight/item5.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringDash
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringDash/item5.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringL
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringL/item5.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_1/item5.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_2/item5.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_3/item5.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.001/item5.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.002/item5.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.003/item5.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.004/item5.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.005
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.005/item5.subLight.005_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.006
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.006/item5.subLight.006_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.007
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.007/item5.subLight.007_end
+        weight: 1
+      - path: Armature.001/Main/item6
+        weight: 1
+      - path: Armature.001/Main/item6/item6.1
+        weight: 1
+      - path: Armature.001/Main/item6/item6.1/item6.1.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.1/item6.1.disc/item6.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.2
+        weight: 1
+      - path: Armature.001/Main/item6/item6.2/item6.2.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.2/item6.2.disc/item6.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.3
+        weight: 1
+      - path: Armature.001/Main/item6/item6.3/item6.3.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.3/item6.3.disc/item6.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.4
+        weight: 1
+      - path: Armature.001/Main/item6/item6.4/item6.4.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.4/item6.4.disc/item6.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.5
+        weight: 1
+      - path: Armature.001/Main/item6/item6.5/item6.5.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.5/item6.5.disc/item6.5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.disc/item6.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.label
+        weight: 1
+      - path: Armature.001/Main/item6/item6.label/item6.label_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.mainLight
+        weight: 1
+      - path: Armature.001/Main/item6/item6.mainLight/item6.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringDash
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringDash/item6.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringL
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringL/item6.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_1/item6.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_2/item6.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_3/item6.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.001/item6.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.002/item6.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.003/item6.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.004/item6.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.005
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.005/item6.subLight.005_end
+        weight: 1
+      - path: DWH_Diagram.001
+        weight: 1
+      - path: DWH_Diagram.001/DWH_Diagram.001_MeshPart0
+        weight: 1
+      - path: DWH_Diagram.001/DWH_Diagram.001_MeshPart1
+        weight: 1
+      - path: DWH_Diagram.001/DWH_Diagram.001_MeshPart2
+        weight: 1
+      - path: DWH_Diagram.001/DWH_Diagram.001_MeshPart3
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Obj1-Intro
+      takeName: Armature.001|ArmatureAction.001
+      firstFrame: 11
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature.001
+        weight: 1
+      - path: Armature.001/Main
+        weight: 1
+      - path: Armature.001/Main/item1
+        weight: 1
+      - path: Armature.001/Main/item1/item1.1
+        weight: 1
+      - path: Armature.001/Main/item1/item1.1/item1.1.disc
+        weight: 1
+      - path: Armature.001/Main/item1/item1.1/item1.1.disc/item1.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.2
+        weight: 1
+      - path: Armature.001/Main/item1/item1.2/item1.2.disc
+        weight: 1
+      - path: Armature.001/Main/item1/item1.2/item1.2.disc/item1.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.3
+        weight: 1
+      - path: Armature.001/Main/item1/item1.3/item1.3.disc
+        weight: 1
+      - path: Armature.001/Main/item1/item1.3/item1.3.disc/item1.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.4
+        weight: 1
+      - path: Armature.001/Main/item1/item1.4/item1.4.disc
+        weight: 1
+      - path: Armature.001/Main/item1/item1.4/item1.4.disc/item1.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.disc
+        weight: 1
+      - path: Armature.001/Main/item1/item1.disc/item1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.label
+        weight: 1
+      - path: Armature.001/Main/item1/item1.label/item1.label_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.mainLight
+        weight: 1
+      - path: Armature.001/Main/item1/item1.mainLight/item1.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringDash
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringDash/item1.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringL
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringL/item1.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_1/item1.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_2/item1.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item1/item1.ringS_Master/item1.ringS_3/item1.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.001/item1.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.002/item1.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.003/item1.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item1/item1.subLight.004/item1.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item2
+        weight: 1
+      - path: Armature.001/Main/item2/item2.1
+        weight: 1
+      - path: Armature.001/Main/item2/item2.1/item2.1.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.1/item2.1.disc/item2.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.2
+        weight: 1
+      - path: Armature.001/Main/item2/item2.2/item2.2.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.2/item2.2.disc/item2.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.3
+        weight: 1
+      - path: Armature.001/Main/item2/item2.3/item2.3.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.3/item2.3.disc/item2.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.4
+        weight: 1
+      - path: Armature.001/Main/item2/item2.4/item2.4.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.4/item2.4.disc/item2.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.5
+        weight: 1
+      - path: Armature.001/Main/item2/item2.5/item2.5.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.5/item2.5.disc/item2.5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.6
+        weight: 1
+      - path: Armature.001/Main/item2/item2.6/item2.6.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.6/item2.6.disc/item2.6.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.7
+        weight: 1
+      - path: Armature.001/Main/item2/item2.7/item2.7.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.7/item2.7.disc/item2.7.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.8
+        weight: 1
+      - path: Armature.001/Main/item2/item2.8/item2.8.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.8/item2.8.disc/item2.8.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.9
+        weight: 1
+      - path: Armature.001/Main/item2/item2.9/item2.9.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.9/item2.9.disc/item2.9.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.10
+        weight: 1
+      - path: Armature.001/Main/item2/item2.10/item2.10.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.10/item2.10.disc/item2.10.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.11
+        weight: 1
+      - path: Armature.001/Main/item2/item2.11/item2.11.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.11/item2.11.disc/item2.11.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.12
+        weight: 1
+      - path: Armature.001/Main/item2/item2.12/item2.12.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.12/item2.12.disc/item2.12.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.disc
+        weight: 1
+      - path: Armature.001/Main/item2/item2.disc/item2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.label
+        weight: 1
+      - path: Armature.001/Main/item2/item2.label/item2.label_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.mainLight
+        weight: 1
+      - path: Armature.001/Main/item2/item2.mainLight/item2.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringDash
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringDash/item2.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringL
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringL/item2.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_1/item2.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_2/item2.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item2/item2.ringS_Master/item2.ringS_3/item2.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.001/item2.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.002/item2.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.003/item2.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.004/item2.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.005
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.005/item2.subLight.005_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.006
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.006/item2.subLight.006_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.007
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.007/item2.subLight.007_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.008
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.008/item2.subLight.008_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.009
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.009/item2.subLight.009_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.010
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.010/item2.subLight.010_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.011
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.011/item2.subLight.011_end
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.012
+        weight: 1
+      - path: Armature.001/Main/item2/item2.subLight.012/item2.subLight.012_end
+        weight: 1
+      - path: Armature.001/Main/item3
+        weight: 1
+      - path: Armature.001/Main/item3/item3.1
+        weight: 1
+      - path: Armature.001/Main/item3/item3.1/item3.1.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.1/item3.1.disc/item3.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.2
+        weight: 1
+      - path: Armature.001/Main/item3/item3.2/item3.2.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.2/item3.2.disc/item3.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.3
+        weight: 1
+      - path: Armature.001/Main/item3/item3.3/item3.3.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.3/item3.3.disc/item3.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.4
+        weight: 1
+      - path: Armature.001/Main/item3/item3.4/item3.4.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.4/item3.4.disc/item3.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.5
+        weight: 1
+      - path: Armature.001/Main/item3/item3.5/item3.5.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.5/item3.5.disc/item3.5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.6
+        weight: 1
+      - path: Armature.001/Main/item3/item3.6/item3.6.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.6/item3.6.disc/item3.6.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.7
+        weight: 1
+      - path: Armature.001/Main/item3/item3.7/item3.7.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.7/item3.7.disc/item3.7.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.8
+        weight: 1
+      - path: Armature.001/Main/item3/item3.8/item3.8.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.8/item3.8.disc/item3.8.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.9
+        weight: 1
+      - path: Armature.001/Main/item3/item3.9/item3.9.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.9/item3.9.disc/item3.9.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.10
+        weight: 1
+      - path: Armature.001/Main/item3/item3.10/item3.10.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.10/item3.10.disc/item3.10.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.disc
+        weight: 1
+      - path: Armature.001/Main/item3/item3.disc/item3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.label
+        weight: 1
+      - path: Armature.001/Main/item3/item3.label/item3.label_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.mainLight
+        weight: 1
+      - path: Armature.001/Main/item3/item3.mainLight/item3.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringDash
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringDash/item3.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringL
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringL/item3.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_1/item3.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_2/item3.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item3/item3.ringS_Master/item3.ringS_3/item3.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.001/item3.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.002/item3.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.003/item3.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.004/item3.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.005
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.005/item3.subLight.005_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.006
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.006/item3.subLight.006_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.007
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.007/item3.subLight.007_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.008
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.008/item3.subLight.008_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.009
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.009/item3.subLight.009_end
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.010
+        weight: 1
+      - path: Armature.001/Main/item3/item3.subLight.010/item3.subLight.010_end
+        weight: 1
+      - path: Armature.001/Main/item4
+        weight: 1
+      - path: Armature.001/Main/item4/item4.1
+        weight: 1
+      - path: Armature.001/Main/item4/item4.1/item4.1.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.1/item4.1.disc/item4.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.2
+        weight: 1
+      - path: Armature.001/Main/item4/item4.2/item4.2.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.2/item4.2.disc/item4.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.3
+        weight: 1
+      - path: Armature.001/Main/item4/item4.3/item4.3.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.3/item4.3.disc/item4.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.4
+        weight: 1
+      - path: Armature.001/Main/item4/item4.4/item4.4.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.4/item4.4.disc/item4.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.5
+        weight: 1
+      - path: Armature.001/Main/item4/item4.5/item4.5.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.5/item4.5.disc/item4.5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.6
+        weight: 1
+      - path: Armature.001/Main/item4/item4.6/item4.6.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.6/item4.6.disc/item4.6.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.7
+        weight: 1
+      - path: Armature.001/Main/item4/item4.7/item4.7.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.7/item4.7.disc/item4.7.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.disc
+        weight: 1
+      - path: Armature.001/Main/item4/item4.disc/item4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.label
+        weight: 1
+      - path: Armature.001/Main/item4/item4.label/item4.label_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.mainLight
+        weight: 1
+      - path: Armature.001/Main/item4/item4.mainLight/item4.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringDash
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringDash/item4.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringL
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringL/item4.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_1/item4.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_2/item4.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item4/item4.ringS_Master/item4.ringS_3/item4.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.001/item4.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.002/item4.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.003/item4.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.004/item4.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.005
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.005/item4.subLight.005_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.006
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.006/item4.subLight.006_end
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.007
+        weight: 1
+      - path: Armature.001/Main/item4/item4.subLight.007/item4.subLight.007_end
+        weight: 1
+      - path: Armature.001/Main/item5
+        weight: 1
+      - path: Armature.001/Main/item5/item5.1
+        weight: 1
+      - path: Armature.001/Main/item5/item5.1/item5.1.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.1/item5.1.disc/item5.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.2
+        weight: 1
+      - path: Armature.001/Main/item5/item5.2/item5.2.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.2/item5.2.disc/item5.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.3
+        weight: 1
+      - path: Armature.001/Main/item5/item5.3/item5.3.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.3/item5.3.disc/item5.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.4
+        weight: 1
+      - path: Armature.001/Main/item5/item5.4/item5.4.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.4/item5.4.disc/item5.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.5
+        weight: 1
+      - path: Armature.001/Main/item5/item5.5/item5.5.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.5/item5.5.disc/item5.5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.6
+        weight: 1
+      - path: Armature.001/Main/item5/item5.6/item5.6.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.6/item5.6.disc/item5.6.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.7
+        weight: 1
+      - path: Armature.001/Main/item5/item5.7/item5.7.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.7/item5.7.disc/item5.7.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.disc
+        weight: 1
+      - path: Armature.001/Main/item5/item5.disc/item5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.label
+        weight: 1
+      - path: Armature.001/Main/item5/item5.label/item5.label_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.mainLight
+        weight: 1
+      - path: Armature.001/Main/item5/item5.mainLight/item5.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringDash
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringDash/item5.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringL
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringL/item5.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_1/item5.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_2/item5.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item5/item5.ringS_Master/item5.ringS_3/item5.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.001/item5.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.002/item5.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.003/item5.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.004/item5.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.005
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.005/item5.subLight.005_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.006
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.006/item5.subLight.006_end
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.007
+        weight: 1
+      - path: Armature.001/Main/item5/item5.subLight.007/item5.subLight.007_end
+        weight: 1
+      - path: Armature.001/Main/item6
+        weight: 1
+      - path: Armature.001/Main/item6/item6.1
+        weight: 1
+      - path: Armature.001/Main/item6/item6.1/item6.1.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.1/item6.1.disc/item6.1.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.2
+        weight: 1
+      - path: Armature.001/Main/item6/item6.2/item6.2.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.2/item6.2.disc/item6.2.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.3
+        weight: 1
+      - path: Armature.001/Main/item6/item6.3/item6.3.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.3/item6.3.disc/item6.3.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.4
+        weight: 1
+      - path: Armature.001/Main/item6/item6.4/item6.4.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.4/item6.4.disc/item6.4.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.5
+        weight: 1
+      - path: Armature.001/Main/item6/item6.5/item6.5.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.5/item6.5.disc/item6.5.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.disc
+        weight: 1
+      - path: Armature.001/Main/item6/item6.disc/item6.disc_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.label
+        weight: 1
+      - path: Armature.001/Main/item6/item6.label/item6.label_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.mainLight
+        weight: 1
+      - path: Armature.001/Main/item6/item6.mainLight/item6.mainLight_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringDash
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringDash/item6.ringDash_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringL
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringL/item6.ringL_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_1
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_1/item6.ringS_1_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_2
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_2/item6.ringS_2_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_3
+        weight: 1
+      - path: Armature.001/Main/item6/item6.ringS_Master/item6.ringS_3/item6.ringS_3_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.001
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.001/item6.subLight.001_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.002
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.002/item6.subLight.002_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.003
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.003/item6.subLight.003_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.004
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.004/item6.subLight.004_end
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.005
+        weight: 1
+      - path: Armature.001/Main/item6/item6.subLight.005/item6.subLight.005_end
+        weight: 1
+      - path: DWH_Diagram.001
+        weight: 1
+      - path: DWH_Diagram.001/DWH_Diagram.001_MeshPart0
+        weight: 1
+      - path: DWH_Diagram.001/DWH_Diagram.001_MeshPart1
+        weight: 1
+      - path: DWH_Diagram.001/DWH_Diagram.001_MeshPart2
+        weight: 1
+      - path: DWH_Diagram.001/DWH_Diagram.001_MeshPart3
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
